@@ -14919,6 +14919,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1588,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1589,
       "actioncode": "",
@@ -14932,6 +14938,12 @@
     },
     {
       "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1591,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1591,
       "actioncode": "",
       "tenantId": "default"
@@ -15363,6 +15375,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1622,
       "actioncode": "",
@@ -15400,6 +15418,12 @@
     },
     {
       "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1628,
       "actioncode": "",
       "tenantId": "default"
