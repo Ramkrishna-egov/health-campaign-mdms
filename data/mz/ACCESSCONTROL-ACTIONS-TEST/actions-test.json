@@ -13138,9 +13138,9 @@
     },
     {
       "id": 1908,
-      "name": "Health Facility Supervisor Checklist",
+      "name": "Health Facility Beneficiary Referral,
       "url": "",
-      "displayName": "HF_SUPERVISOR_CHECK_LIST_LABEL",
+      "displayName": "HOME_HF_SUPERVISOR_REFERRAL_LABEL",
       "orderNumber": 1,
       "parentModule": "cards",
       "enabled": true,
