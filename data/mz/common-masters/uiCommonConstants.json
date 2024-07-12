@@ -41,7 +41,6 @@
       },
        "smc": {
         "iframe-routes": {
-          
           "national": {
             "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
             "isOrigin": true,
@@ -51,7 +50,7 @@
             "base-kibana-path":"/kibana/"
           },
           "district": {
-            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/4e5e95b4-92df-405c-94fa-e38366028471?_g=(filters:!(),time:(from:'2024-07-11T18:30:00.000Z',to:'2024-07-12T18:29:00.000Z'))",
             "isOrigin": true,
             "title": "DASHBOARD_DISTRICT",
             "overwriteTimeFilter": true,
@@ -59,7 +58,7 @@
             "base-kibana-path":"/kibana/"
           },
           "province": {
-            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/855439a2-4b15-4db8-b033-5118ca8d76ec?_g=(filters:!(),time:(from:'2024-07-11T18:30:00.000Z',to:'2024-07-12T18:29:00.000Z'))",
             "isOrigin": true,
             "title": "DASHBOARD_PROVINCE",
             "overwriteTimeFilter": true,
