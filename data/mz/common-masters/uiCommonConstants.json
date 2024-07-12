@@ -38,6 +38,51 @@
             "base-kibana-path":"/kibana/"
           }
         }
+      },
+       "smc": {
+        "iframe-routes": {
+          
+          "national": {
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_NATIONAL",
+            "overwriteTimeFilter": true,
+            "Authorization":true,
+            "base-kibana-path":"/kibana/"
+          },
+          "district": {
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_DISTRICT",
+            "overwriteTimeFilter": true,
+            "Authorization":true,
+            "base-kibana-path":"/kibana/"
+          },
+          "province": {
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_PROVINCE",
+            "overwriteTimeFilter": true,
+            "Authorization":true,
+            "base-kibana-path":"/kibana/"
+          },
+          "hf":{
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_HF",
+            "overwriteTimeFilter": true,
+            "Authorization":true,
+            "base-kibana-path":"/kibana/"
+          },
+          "hcm": {
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()",
+            "isOrigin": true,
+            "title": "DASHBOARD_HCM",
+            "overwriteTimeFilter": true,
+            "Authorization":true,
+            "base-kibana-path":"/kibana/"
+          }
+        }
       }
     }
   ]
