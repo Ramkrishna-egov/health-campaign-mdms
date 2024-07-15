@@ -66,7 +66,7 @@
             "base-kibana-path":"/kibana/"
           },
           "hf":{
-            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&_g=(time:(from:now-15m,to:now))&_a=()&show-top-menu=false&show-query-input=false&show-time-filter=false",
+            "routePath": "/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/b1ce8523-30cd-4966-aa8d-c3ac9561ebb2?embed=true&hide-filter-bar=true&_g=(time:(from:now-15m,to:now))&_a=()&show-top-menu=false&show-query-input=false&show-time-filter=false",
             "isOrigin": true,
             "title": "DASHBOARD_HF",
             "overwriteTimeFilter": true,
