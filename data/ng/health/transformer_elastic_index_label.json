@@ -7,24 +7,24 @@
       "indexLabel": "country"
     },
     {
-      "label": "Provincia",
-      "indexLabel": "province"
+      "label": "State",
+      "indexLabel": "state"
     },
     {
-      "label": "Distrito",
-      "indexLabel": "district"
+      "label": "LGA",
+      "indexLabel": "lga"
     },
     {
-      "label": "Localidade",
-      "indexLabel": "locality"
+      "label": "Ward",
+      "indexLabel": "ward"
     },
     {
-      "label": "Posto Administrativo",
-      "indexLabel": "administrativeProvince"
+      "label": "Health Facility",
+      "indexLabel": "healthFacility"
     },
     {
-      "label": "Aldeia",
-      "indexLabel": "village"
+      "label": "Settlement",
+      "indexLabel": "settlement"
     }
   ]
 }

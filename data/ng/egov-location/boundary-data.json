@@ -67,7 +67,7 @@
                             "label": "Settlement",
                             "code": "settlement1",
                             "children": []
-                          }
+                          },
                           {
                             "id": "settlement2",
                             "boundaryNum": 6,
