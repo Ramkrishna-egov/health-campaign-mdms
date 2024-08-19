@@ -144,6 +144,10 @@
         {
           "name": "HF_RF_DRUG_SE_CC",
           "code": "HF_RF_DRUG_SE_CC"
+        },
+        {
+          "name": "Health Facility Assessment",
+          "code": "HF_ASMT"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
